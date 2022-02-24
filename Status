@@ -21,7 +21,7 @@ echo "#Architecture: $arc
 #CPU physical: $pcpu
 #vCPU: $vcpu
 #Memory Usage: $uram/${fram}MB ($pram%)
-#Disk Usage: $udisk/${fdisk}Gb ($pdisk%)
+#Disk Usage: $udisk/${fdisk}GB ($pdisk%)
 #CPU load: $cpul
 #Last boot: $lb
 #LVM use: $lvmu
